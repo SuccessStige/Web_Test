@@ -1,0 +1,67 @@
+.hero {
+    width: 60%;
+    padding: 10px;
+    margin: 5% 20%;
+    border-radius: 5px;
+    background-color: blueviolet;
+    height: 20vh;
+}
+.box {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    align-content: center;
+}
+span, small {
+    color: azure;
+    padding: 5px;
+    font-size: xx-large;
+    font-weight: bolder;
+    
+}
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index:-100;
+}
+.grt {
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+}
+button {
+    width: 20%;
+    height: 50px;
+    margin-top: 10%;
+}
+#btn {
+    background-color: brown;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bolder;
+    margin-left: 30%;
+    cursor: pointer; 
+    /* color: white; */
+}
+#btn1 {
+    background-color: rgb(34, 34, 230);
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin: 10px;
+    color: white;
+    
+    
+}
+p {
+    text-align: center;
+    margin-top: 0px;
+}
